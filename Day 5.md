@@ -7,5 +7,5 @@
 # **1017**
 #### **DP 转移方程是**
 ```math
-dp[i][j] =max\{dp[i-1][j], dp[i-a[i]][j]+a[i]\,\}
+dp[i][j] =max{dp[i-1][j], dp[i-a[i]][j]+a[i]}
 ```
